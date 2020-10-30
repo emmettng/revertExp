@@ -1,7 +1,3 @@
-!this is the first line of readMEGA
-j
+!this is the first line of readME
 
 Second line in read me in master branch 
-
-
-Revert : some line there 
